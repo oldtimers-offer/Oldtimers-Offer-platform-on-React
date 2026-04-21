@@ -1,7 +1,7 @@
 # Oldtimers dApp v1.0.1
 
 Oldtimers dApp is created with React (typescript) and Smart Contract. 
-#### The project is live on https://old-token.xyz/
+#### The project is live on https://token.oldtimersoffer.com/
 The smart contract used in this dapp is deployed on EOS EVM Testnet (https://explorer-testnet.trust.one/address/0x0EB7dA9e8b7f85Bc801BaeB718BE0476B48Bb9Be). 
 
 ## Usage
@@ -25,7 +25,7 @@ $ yarn start
 
 ## Oldtimers dApp (only Rent option in v1.0.1) Details
 
-Oldtimers (Rent & Buy) dApp is made up of team members from the Oldtimers Offer platform. The dApp is a Proof of Concept for Renting & Buying Classic Vehicles and belongs as a part of applying for the [ENF Grant](https://eosnetwork.com/blog/eos-network-foundation-grant-framework-guidelines/) program. Our hard work is open source and helps developers to create similar dApps for the marketplace on the blockchain. 
+Oldtimers (Rent & Buy) dApp is made up of team members from the Oldtimers Offer platform. The dApp is a Proof of Concept for Renting & Buying Classic Vehicles. Our hard work is open source and helps developers to create similar dApps for the marketplace on the blockchain. 
 The dApp has the following advantages and rules:
 
 -   **1. Easy to list a classic vehicle on blockchain(v1):** Users can very simply add a vehicle to the blockchain. It is a free service.
@@ -47,8 +47,3 @@ The dApp has the following advantages and rules:
 -   **6. Buying a vehicle (Innovative Solution!)(v2):** During the creation of this smart contract, our idea was first to make a brand new smart contract only for buying a vehicle. After research, we find out that if we add the buying option we can not just have more options for owners of the vehicle but make the best covered smart contract for the marketplace. We decided to add that future as well. Let's explain in the next step, what we covered with buying a vehicle option.
 
 -   **6.b Advantage in Vehicle Buy function(v2):** In our function, we covered the following rules: a. Only the owner of the vehicle can add or remove the vehicle from the buying list. That is a decentralized approach. b. When the user pays exactly or more for buying the vehicle, the money goes automatically to the previous vehicle owner (smart contract calculated the profit). c. We map who buys the vehicle, in that way the new owner has the option to add details and a rent/buy option. The previous owner is automatically removed for that privilege.
-
-### Business Architecture
-
-If you are confused because of the previous explanation, don't worry. We have prepared it for you [Business Architecture](https://miro.com/app/board/uXjVPq5__rU=/?share_link_id=994333599006). Enjoy! We are available for all questions at the email address office@oldtimersoffer.com
-
