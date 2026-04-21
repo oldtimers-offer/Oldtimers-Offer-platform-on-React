@@ -2,7 +2,8 @@
 
 Oldtimers dApp is created with React (typescript) and Smart Contract. 
 #### The project is live on https://token.oldtimersoffer.com/
-The smart contract used in this dapp is deployed on EOS EVM Testnet (https://explorer-testnet.trust.one/address/0x0EB7dA9e8b7f85Bc801BaeB718BE0476B48Bb9Be). 
+The smart contract used in this dapp is deployed on EOS EVM Testnet </br>
+(https://explorer-testnet.trust.one/address/0x0EB7dA9e8b7f85Bc801BaeB718BE0476B48Bb9Be). 
 
 ## Usage
 
